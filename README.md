@@ -1,6 +1,6 @@
 # Interactivity Design
 
-## Interactivity Design Elements
+## Design Elements
 - Pagination: This design includes the Universal Principles of Design that correspond to learning. The content is divided among four pages, making it easier to process and recall.
 - Navigation: Users of this design are able to navigate between pages using the page buttons at the bottom of the screen. The current page remains highlighted to indicate users’ location within the design.
 - Comprehension Wizard: When a user clicks on a principle, its definition and corresponding textbook pages are displayed on the screen. Users who do not have a copy of the textbook can order one using the sidebar link.
